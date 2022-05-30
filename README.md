@@ -14,8 +14,8 @@ pkg install git -y
 <b>Run Script
 
 ```
-git clone https://github.com/Mr-XsZ1/epasml
-cd epasml
+git clone https://github.com/Mr-XsZ1/fb
+cd fb
 git pull
 python fb.py
 ```
