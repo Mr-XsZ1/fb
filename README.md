@@ -1,14 +1,13 @@
 # Fb
 
-<img src="https://github.com/Mr-XsZ1/fb/blob/main/ss/Screenshot_20220530-184517_Termux-picsay.jpg"/>
+<img src="https://github.com/Mr-XsZ1/fb/blob/main/ss/Screenshot_20220915-171405_Termux-picsay.jpg"/>
 <br><br>
 <h3>Install</h3><br>
 
 ```
 pkg update && pkg upgrade -y
 pkg install python -y
-pip install requests
-pip install futures
+python -m pip install requests
 pkg install git -y
 ```
 <b>Run Script
